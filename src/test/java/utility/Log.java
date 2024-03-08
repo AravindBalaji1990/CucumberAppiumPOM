@@ -2,6 +2,7 @@ package utility;
 
 import org.apache.log4j.Logger;
 
+// this is just a comment
 public class Log {
 	// Initialize Log4j logs
 	private static Logger Log = Logger.getLogger(Log.class.getName());
